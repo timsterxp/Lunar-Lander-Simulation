@@ -2,7 +2,7 @@
 CS 134 Spring 2020 Project by Timothy Nguyen
 Detailing lunar lander simulation written in C++ for OpenFrameworks containing:
 - Physics-based movement
-- Collision Detection 
+- Collision Detection with a kd-tree implementation
 - Ray based Altitude Sensor
 - Shader-Based Particles for Lunar Thrust
 
