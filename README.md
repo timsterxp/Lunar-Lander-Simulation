@@ -9,6 +9,9 @@ Detailing lunar lander simulation written in C++ for OpenFrameworks containing:
 
 Credit:
 Music: https://www.bensound.com
+
 Rocket sound from http://soundbible.com/1492-Rocket-Thrusters.html
+
 Text/Font: https://www.fontsquirrel.com/fonts/seasideresortnf
+
 Lander/Mars Maya files provided by Kevin Smith.
