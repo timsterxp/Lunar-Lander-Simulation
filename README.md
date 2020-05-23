@@ -7,6 +7,7 @@ Detailing lunar lander simulation written in C++ for OpenFrameworks containing:
 - Ray based Altitude Sensor
 - Shader-Based Particles for Lunar Thrust
 
+Demo/Trailer: https://youtu.be/_-4seuFMHXk
 
 Credit:
 Music: https://www.bensound.com
